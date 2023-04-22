@@ -1,3 +1,2 @@
-Witryne napisałem na praktyce wdrożeniowej w Kirchhoff-Automotive w Mielcu. Strona miała za zadanie pokazywać zaplanowany, aktualny i przewidywany czas pracy
-maszyn z wykorzystaniem FusionCharts. Strona zczytywała wszystkie te rzeczy z lokalnej bazy firmy jak i również działała na lokalnym serwerze do którego 
-teraz nie mam dostępu. Do utworzenia tej strony wykorzystałem bootstrap'ów, HTML'a, JS'a, PHP'a i JSON'a.
+Website was created on school practice in Kirchoff-Automotive in Mielec. The Website was able to manage time of work of diffrent machines in the company. It was showing predicted, current and planned time of making an element with delays if there was such a thing. The website was working on a local Kirchhoff server that I have no longer access. All the information was read from their database. To make this work I used: HTMML, JS, PHP, JSON.
+
